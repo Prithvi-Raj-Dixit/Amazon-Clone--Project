@@ -2,7 +2,7 @@ import { todayDeal } from "./todayDeal.js"
 
 let slideBtnLeft = document.getElementById("slide-btn-left")
 let slideBtnRight = document.getElementById("slide-btn-right")
-let imgItem = document.querySelectorAll(".image-item") 
+let imgItem = document.querySelectorAll(".image-item")   
 
 
 console.log(imgItem.length - 1)
