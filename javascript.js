@@ -120,7 +120,7 @@ today_deal_btn_prevEl.addEventListener("click", () => {
 
 today_deal_btn_nextEl.addEventListener("click", () => {
     // alert("next")
-    
+       
     if(startProduct > -1500){
         startProduct -= 500
     }
